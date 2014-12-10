@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" ng-app="quizTime">
+    <head>
+        <meta charset="utf-8">
+        <title>Quiz time!</title>
+        <link rel="stylesheet" href="style/normalize.css">
+        <link rel="stylesheet" href="style/foundation.min.css">
+        <link rel="stylesheet" href="style/main.css">
+        <script src="js/angular.js"></script>
+    </head>
+    <body ng-controller="QuizController">
+        <div class="row">
+            <button class="button tiny expand" ng-click="reset()">Reset Quiz</button>
+        </div>
+        <div ng-if="question.length">
+            <div class="row">
+                <span class="label" for="answerBox" id="question" name="answer">{{question}}</span>
+            </div>
+        </div>
+        <div class="row">
+            <input id="answerBox" type="text" placeholder="Put in your answer...">
+            <div ng-if="question.length">
+                <span class="label alert" id="warning" type="hidden" for="answerBox"></span>
+            </div>
+        </div>
+        <div class="row">
+            <button class="button tiny expand" id="submitAnswer" onclick="answerQuestion()">Check answer</button>
+        </div>
+        <script src="js/quiz.js"></script>
+    </body>
+</html>
