@@ -35,6 +35,9 @@ angular.module('quizTime', [])
             $scope.init();
 
             $scope.answerQuestion = function() {
+                if ($scope.answer == '') {
+                    return;
+                }
                 if ($scope.answer.toUpperCase() === questions[$scope.questionCount].answer.toUpperCase()) {
                     alert('That\'s right!');
                     $scope.correct += 1;
@@ -52,11 +55,21 @@ angular.module('quizTime', [])
                     alert('Quiz completed with ' + correct + ' correct answers!');
                 }
             };
-
-
-
         }
     ])
+
+    .directive('ngEnter', function() {
+        return function(scope, element, attrs) {
+            element.bind("keydown keypress", function(event) {
+                if (event.which === 13) {
+                    scope.$apply(function() {
+                        scope.$eval(attrs.ngEnter);
+                    });
+                    event.preventDefault();
+                }
+            });
+        };
+    })
 
     .directive('focusMe', function($timeout, $parse) {
         return {

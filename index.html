@@ -19,14 +19,11 @@
                 </div>
             </div>
             <div class="row">
-                <input id="answerBox" type="text" placeholder="Put in your answer..." ng-model="answer" focus-me="answer == ''">
+                <input id="answerBox" type="text" placeholder="Put in your answer..." ng-enter="answerQuestion()" ng-model="answer" focus-me="answer == ''">
             </div>
             <div class="row">
                 <button class="button tiny expand" ng-disabled="answer == ''" ng-click="answerQuestion()">Check answer</button>
             </div>
-
-            <pre>questionCount: {{questionCount}}</pre>
-            <pre>correct: {{correct}}</pre>
         </div>
 
         <script src="js/quiz.js"></script>
