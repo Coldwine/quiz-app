@@ -1,0 +1,1903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"cons",
+				"console.log('$0');"
+			],
+			[
+				"aler",
+				"alert(${0:message})	Window"
+			],
+			[
+				"new",
+				"new Error(${0:message})	Error"
+			],
+			[
+				"bower",
+				"bower_components/foundation/css/foundation	css"
+			],
+			[
+				"insert",
+				"insertBefore(${0:newElement}, referenceElement)	Node"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"hs",
+				"hsla(h,s,l,a)"
+			],
+			[
+				"wid",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"setAtt",
+				"setAttribute(${0:name}, value)	Element"
+			],
+			[
+				"inser",
+				"insertBefore(${0:newElement}, referenceElement)	Node"
+			],
+			[
+				"cre",
+				"createAttribute(${0:name})	Document"
+			],
+			[
+				"le",
+				"length	String"
+			],
+			[
+				"ins",
+				"insertBefore(${0:newElement}, referenceElement)	Node"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"function",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"bower_compo",
+				"bower_components/angular/angular.min	js"
+			],
+			[
+				"bower_",
+				"bower_components/bootstrap/dist/css/bootstrap.min	css"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"i",
+				"if()"
+			],
+			[
+				"getEL",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"wri",
+				"write(${0:markup})	Document"
+			],
+			[
+				"parse",
+				"parseInt(${0:string}, radix)	Window"
+			],
+			[
+				"mathr",
+				"Math.round($0)	Math"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ng-op",
+				"ng-options	AngularJS"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bs3-alert",
+				"bs3-alert:info	bs3-alert-info"
+			],
+			[
+				"m",
+				"mousedown	Event"
+			],
+			[
+				"bor",
+				"border-bottom-left-radius"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"scri",
+				"JavaScript"
+			],
+			[
+				"va",
+				"var "
+			],
+			[
+				"nu",
+				"monthNumber"
+			],
+			[
+				"dire",
+				"directive	Angular.js"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"div",
+				"div	<div>"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"tab",
+				"table	Tag"
+			],
+			[
+				"ol",
+				"ol	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"ul",
+				"ul	<ul>"
+			],
+			[
+				"html",
+				"HTML"
+			],
+			[
+				"onkey",
+				"onkeyup	Attr"
+			],
+			[
+				"total",
+				"totalinterest"
+			],
+			[
+				"direc",
+				"directive	Angular.js"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"ng-",
+				"ng-if	AngularJS"
+			],
+			[
+				"bs3-b",
+				"bs3-button	bs3-button"
+			],
+			[
+				"ng-sh",
+				"ng-show	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ng-show",
+				"ng-show	AngularJS"
+			],
+			[
+				"butto",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"bs3-c",
+				"bs3-col	bs3-col"
+			],
+			[
+				"bs3-",
+				"bs3-row	bs3-row"
+			],
+			[
+				"form",
+				"ng-form"
+			],
+			[
+				"ng-model",
+				"ng-model	AngularJS"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"bs3",
+				"bs3-row	bs3-row"
+			],
+			[
+				"modul",
+				"angular.module"
+			],
+			[
+				"module",
+				"verbose_module	AngularJS"
+			],
+			[
+				"control",
+				"controller	AngularJS"
+			],
+			[
+				"contel",
+				"angular: controller"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1342,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack list ",
+				"Package Control: List Packages"
+			],
+			[
+				"rem ",
+				"Package Control: Remove Package"
+			],
+			[
+				"plg list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"them",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"spacef",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"color su",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"emme wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gutter",
+				"Preferences: GutterColor Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"theme ",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set them",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy sass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synthtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"selec colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colr",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"set theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packcon",
+				"Package Control: Disable Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML5"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syna",
+				"Set Syntax: ASP"
+			],
+			[
+				"set sy",
+				"Set Syntax: HTML5"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"snippet html",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"ide tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"iden tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"id tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"ind tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colore",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"color se",
+				"Preferences: GutterColor Settings – Default"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"conv ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"boots",
+				"Snippet: bs3-block-button-success"
+			],
+			[
+				"show",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"show e",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter settin",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"linter choo",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"lin choo",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"hint",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"lint m",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"anul",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"lint th",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter user",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"tog min",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 619.0
+	},
+	"console":
+	{
+		"height": 168.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mgmk/Workspaces/jsplay/quiz_ng"
+	],
+	"file_history":
+	[
+		"/Users/mgmk/Workspaces/MyPage/index.html",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mgmk/Development/jsplay/js/follow.js",
+		"/Users/mgmk/Development/jsplay/example.html",
+		"/Users/mgmk/Development/quiz-app/js/quiz.js",
+		"/Users/mgmk/Development/quiz-app/index.html",
+		"/Users/mgmk/Development/quiz-app/style/normalize.css",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mgmk/Development/quiz-app/style/foundation.min.css",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/mgmk/Development/quiz-app/js/follow.js",
+		"/Users/mgmk/Development/quiz-app/js/main.js",
+		"/Users/mgmk/Development/quiz-app/app/index-async.html",
+		"/Users/mgmk/Development/quiz-app/app/index.html",
+		"/Users/mgmk/Development/jsplay/quizApp/quiz.html",
+		"/Users/mgmk/Development/jsplay/quizApp/style/main.css",
+		"/Users/mgmk/Development/jsplay/quizApp/script/quiz.js",
+		"/Users/mgmk/Development/angularSoup/AngularJSSTB/app/js/app.js",
+		"/Users/mgmk/Development/angularPlayground/quizApp/app/index.html",
+		"/Users/mgmk/Development/angularPlayground/quizApp/app/views/main.html",
+		"/Users/mgmk/Development/angularPlayground/quizApp/app/scripts/controllers/main.js",
+		"/Users/mgmk/Development/MyPage/js/main.js",
+		"/Users/mgmk/Development/jsplay/js/main.js",
+		"/Users/mgmk/Development/angular-phonecat/app/index.html",
+		"/Users/mgmk/Development/angular-phonecat/test/unit/controllersSpec.js",
+		"/Users/mgmk/Development/angular-phonecat/app/js/controllers.js",
+		"/Users/mgmk/Development/angularSoup/AngularJSSTB/app/partials/book-genres.html",
+		"/Users/mgmk/Development/angularSoup/AngularJSSTB/app/partials/review-form.html",
+		"/Users/mgmk/Development/angularSoup/AngularJSSTB/app/partials/app.html",
+		"/Users/mgmk/Development/angularSoup/AngularJSSTB/app/partials/book-cover.html",
+		"/Users/mgmk/Development/angular-phonecat/app/css/app.css",
+		"/Users/mgmk/Development/angular-phonecat/app/js/filters.js",
+		"/Users/mgmk/Development/angular-phonecat/app/js/services.js",
+		"/Users/mgmk/Development/angular-phonecat/app/js/directives.js",
+		"/Users/mgmk/Development/angular-phonecat/app/js/app.js",
+		"/Users/mgmk/Development/angular-phonecat/app/js/animations.js",
+		"/Users/mgmk/Development/shapingUpWithAngular/app.js",
+		"/Users/mgmk/Development/shapingUpWithAngular/product-description.html",
+		"/Users/mgmk/Development/shapingUpWithAngular/product-reviews.html",
+		"/Users/mgmk/Development/shapingUpWithAngular/product-specs.html",
+		"/Users/mgmk/Development/shapingUpWithAngular/index.html",
+		"/Users/mgmk/Development/jsplay/tempConv.html",
+		"/Users/mgmk/Development/shapingUpWithAngular/script/app.js",
+		"/Users/mgmk/Development/shapingUpWithAngular/style/style.css",
+		"/Users/mgmk/Library/Application Support/Brackets/state.json",
+		"/Users/mgmk/Downloads/Treehouse_JavaScript_Basics/Stage_02/challenge/css/main.css",
+		"/Users/mgmk/Downloads/Treehouse_JavaScript_Basics/Stage_02/challenge/index.html",
+		"/Users/mgmk/Downloads/Treehouse_JavaScript_Basics/Stage_02/challenge/story.js",
+		"/Users/mgmk/Downloads/Treehouse_JavaScript_Basics/Stage_02/challenge/instructions.html",
+		"/Users/mgmk/Development/shapingUpWithAngular/style/style.less",
+		"/Users/mgmk/Development/jsplay/example1.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/steps/supplementaryDetails.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps/workrequired.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/alteration/steps/workrequired.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection/steps/workrequired.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/config.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/app.less",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection/steps/guideprice.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/alteration/steps/guideprice.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps/guideprice.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection/steps/confirmation.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/variables.less",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps/confirmation.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/steps/coreDetails.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/steps/quote.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/steps/confirmation.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/steps/prequotation.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps/theproperty.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/myaccount/security/security.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/myaccount/applications/applications.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/connection.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/auth/register/register.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/auth/login/login.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/auth/passwordexpired/passwordexpired.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/components/addresspicker/addresspicker.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/meterbox.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/steps/products.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/steps/theproperty.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/steps/summary.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection/steps/theproperty.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection/disconnection.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/steps/yourdetails/yourdetails.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/connection.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/alteration/alteration.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/alteration/steps/theproperty.html",
+		"/Users/mgmk/Development/myMeteorProject/myPage/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/request/tests/test-defaults.js",
+		"/Users/mgmk/Development/myMeteorProject/myPage/.meteor/local/build/programs/server/node_modules/source-map/test/source-map/test-dog-fooding.js",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/grunt-contrib-less/node_modules/less/tmp/browser/test-runner-no-js-errors.html",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/ua-parser-js/test/browser-test.json",
+		"/Users/mgmk/Downloads/Sublime Text.icns",
+		"/Users/mgmk/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/components/payment/payment.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/components/payment/payment.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/test_data/user.details.json",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/components/payment/payment.constants.js",
+		"/Users/mgmk/Development/ngctp-ui/src/test_data/payment.html",
+		"/Users/mgmk/Development/ngctp-ui/bower_components/Chart.js/samples/polar-area.html",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/protractor/node_modules/adm-zip/adm-zip.js",
+		"/Users/mgmk/Development/ngctp-ui/package.json",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/userDefinedProperty.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/services/user-titles.js",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/socket.io/node_modules/redis/examples/unix_socket.js",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/url/url.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/components/payment/payment.less",
+		"/Users/mgmk/Development/ngctp-ui/.bowerrc",
+		"/Users/mgmk/Development/ngctp-ui/src/app/myaccount/applications/show/charges.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/test_data/user.profile.json",
+		"/Users/mgmk/Development/ngctp-ui/src/test_data/order.list.json",
+		"/Users/mgmk/Development/ngctp-ui/src/app/common/directives/csv-export-button.js",
+		"/Users/mgmk/Development/ngctp-ui/src/test_data/order.0030006919.json",
+		"/Users/mgmk/Development/ngctp-ui/src/app/navigateTo.tpl.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/navigateTo.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/bower_components/bootstrap/less/navbar.less",
+		"/Users/mgmk/Development/ngctp-ui/node_modules/grunt-ng-constant/node_modules/jju/test/update/norm-array.yaml",
+		"/Users/mgmk/Development/MyPage/css/normalize.css",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/alteration/alteration.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/meterbox.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection/disconnection.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/connection.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/connection.controller.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/auth/auth.service.js",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/alteration/steps/confirmation.html",
+		"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/steps/confirmation.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/connection/steps",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2b",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount/new/new.tpl.html",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount/applications/show/details",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/bower_components",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/myMeteorProject/myPage",
+			"/Users/mgmk/Development/myMeteorProject/myPage/.meteor",
+			"/Users/mgmk/Development/myMeteorProject/myPage",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2b",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/meterbox/steps",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/bower_components/bootstrap",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/myaccount/applications",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2b",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2b/connection/steps",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2c/disconnection",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mgmk/Development/ngctp-ui/src/app/b2b",
+			"/Users/mgmk/Development/ngctp-ui/src",
+			"/Users/mikih/Workspaces/angularjs/ngctp-ui",
+			"<project>",
+			"/Users/mikih/Workspaces/angularjs/ngctp-ui/test_data",
+			"/Users/mikih/Workspaces/angularjs/caster-ui/app/modules",
+			"/Users/mikih/Workspaces/angularjs/ngctp-ui/app",
+			"/Users/mikih/Workspaces/angularjs/ngctp-ui/bower_components/angular-ui-router/src",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cmd+ctrl",
+			"node",
+			"ul {",
+			"link-container",
+			"span",
+			"welcome",
+			"input-sm",
+			"h3 > span.info {\n    margin-bottom: -5px;\n}",
+			"info",
+			"filter-o",
+			"span",
+			"btn-succ",
+			"back ",
+			"option",
+			"form-contr",
+			"selectpicker",
+			"select",
+			"btn-radio",
+			"btn-default",
+			"form-group",
+			"label",
+			"form-control",
+			"radio",
+			"btn-group",
+			"btn-succ",
+			"text-color",
+			"radio",
+			"heightOne",
+			"btn-default",
+			".btn ",
+			"btn-default",
+			"button",
+			"btn",
+			"panel",
+			"term",
+			"popover",
+			".pagi",
+			".paga",
+			"form-group",
+			"\"disable_formatted_linebreak\": true",
+			"form-group",
+			"form-horizontal",
+			"form-group",
+			"form-container",
+			"Guide price",
+			"shit",
+			"Guide Price",
+			">>>>",
+			"Moling",
+			"pagina",
+			"order",
+			"Guide Price",
+			"form-control",
+			"input-small",
+			"css",
+			"/*",
+			"/*!",
+			"less",
+			".main",
+			"html",
+			"body {",
+			"/*",
+			"output",
+			"input-small",
+			"output",
+			"width:100%",
+			"input-small",
+			"form-control ",
+			"form-control",
+			"100%",
+			"form-control",
+			"input-sma",
+			"input-sml",
+			"form-con",
+			"navbar-wi",
+			"span class=\"cancel\"",
+			"span class=\"btn-success\"",
+			"class=\"submit\"",
+			"done: item.date && item.date !== ''",
+			"Make good",
+			"bold",
+			"span",
+			"nat-progress-timeline",
+			"class=\"submit\"",
+			"progress",
+			"line-he",
+			"cancel",
+			"btn",
+			"a",
+			"really-click",
+			"btn-li",
+			"Any data entered for this property will be lost.",
+			"Navigate to",
+			"check-mark",
+			"selectpicker",
+			"ng-orange",
+			"ladda",
+			"btn",
+			"If you require a new",
+			"postcode or street name where work is required",
+			"base64",
+			"e12f22",
+			".alert-danger",
+			"foundation.sass",
+			"foundation.css",
+			"mrt:normalize.css",
+			"normalize",
+			".css",
+			"navbar-wizard",
+			"navbar-fixed-bottom",
+			"navbar-wi",
+			"isType",
+			"YourDetails",
+			"talk over the detail",
+			"progress timeline",
+			"progress",
+			"#vat",
+			"bt",
+			"btn",
+			"optional",
+			"Create Quote",
+			"Select a status",
+			"btn-group",
+			"ng",
+			"popover",
+			"profile",
+			"profile.correspondence.phone",
+			".modal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"container",
+			"btn-radio",
+			"p",
+			"    \npopover-title=\"Information\"",
+			"    \n",
+			"'",
+			"ngctp.b2c.auth.RegisterController'",
+			"ngctp.b2c.auth.authService.",
+			"ngctp.b2c.auth.authService",
+			"ngctp.b2c.auth",
+			"appConfig.services.auth",
+			"profile.",
+			"'",
+			"-12",
+			"bddcdc",
+			"b6e5e5",
+			"",
+			"\"indent_with_tabs\": true",
+			",",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "quiz_ng.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"paymencontr",
+				"ngctp-ui/src/app/common/components/payment/payment.controller.js"
+			],
+			[
+				"userde",
+				"ngctp-ui/src/test_data/user.details.json"
+			],
+			[
+				"paytpl",
+				"ngctp-ui/src/app/common/components/payment/payment.tpl.html"
+			],
+			[
+				"app.less",
+				"ngctp-ui/src/app/app.less"
+			],
+			[
+				"navtp",
+				"ngctp-ui/src/app/navigateTo.tpl.html"
+			],
+			[
+				"auth",
+				"ngctp-ui/src/app/auth/auth.service.js"
+			],
+			[
+				"prequo",
+				"ngctp-ui/src/app/b2b/connection/steps/prequotation.tpl.html"
+			],
+			[
+				"grunt",
+				"ngctp-ui/Gruntfile.js"
+			],
+			[
+				"your",
+				"ngctp-ui/src/app/common/steps/yourdetails/yourdetails.tpl.html"
+			],
+			[
+				"confirmat",
+				"ngctp-ui/src/app/b2b/connection/steps/confirmation.tpl.html"
+			],
+			[
+				"confirma",
+				"ngctp-ui/src/app/b2b/connection/steps/confirmation.tpl.html"
+			],
+			[
+				"confirm",
+				"ngctp-ui/src/app/b2c/disconnection/steps/confirmation.html"
+			],
+			[
+				"app.l",
+				"ngctp-ui/src/app/app.less"
+			],
+			[
+				"progrtpl",
+				"ngctp-ui/src/app/common/components/progress-timeline/progress-timeline.tpl.html"
+			],
+			[
+				"newtpl",
+				"ngctp-ui/src/app/myaccount/new/new.tpl.html"
+			],
+			[
+				"progrtimetpl",
+				"ngctp-ui/src/app/common/components/progress-timeline/progress-timeline.tpl.html"
+			],
+			[
+				"progrtime",
+				"ngctp-ui/src/app/common/components/progress-timeline/progress-timeline.directive.js"
+			],
+			[
+				"newtp",
+				"ngctp-ui/src/app/myaccount/new/new.tpl.html"
+			],
+			[
+				"addrepicktpl",
+				"ngctp-ui/src/app/common/components/addresspicker/addresspicker.tpl.html"
+			],
+			[
+				"really",
+				"ngctp-ui/src/app/common/directives/ng-really-click.js"
+			],
+			[
+				"addrpicktp",
+				"ngctp-ui/src/app/common/components/addresspicker/addresspicker.tpl.html"
+			],
+			[
+				"addrespik",
+				"ngctp-ui/src/app/common/components/addresspicker/addresspicker.tpl.html"
+			],
+			[
+				"addresspi",
+				"ngctp-ui/src/app/common/components/addresspicker/addresspicker.tpl.html"
+			],
+			[
+				"add",
+				"ngctp-ui/src/app/common/components/addresspicker/addresspicker.constants.js"
+			],
+			[
+				"progr",
+				"ngctp-ui/src/app/common/components/progress-timeline/progress-timeline.tpl.html"
+			],
+			[
+				"bootvar",
+				"ngctp-ui/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"config",
+				"ngctp-ui/src/app/config.js"
+			],
+			[
+				"confi",
+				"ngctp-ui/src/app/config.js"
+			],
+			[
+				"ngreal",
+				"ngctp-ui/src/app/common/directives/ng-really-click.js"
+			],
+			[
+				"logintpl",
+				"ngctp-ui/src/app/auth/login/login.tpl.html"
+			],
+			[
+				"variable",
+				"ngctp-ui/src/app/variables.less"
+			],
+			[
+				"addredir",
+				"ngctp-ui/src/app/common/components/addresspicker/addresspicker.directive.js"
+			],
+			[
+				"applictpl",
+				"ngctp-ui/src/app/myaccount/applications/applications.tpl.html"
+			],
+			[
+				"concontr",
+				"ngctp-ui/src/app/b2b/connection/connection.controller.js"
+			],
+			[
+				"yourdettpl",
+				"ngctp-ui/src/app/common/steps/yourdetails/yourdetails.tpl.html"
+			],
+			[
+				"servusert",
+				"ngctp-ui/src/app/common/services/user-titles.js"
+			],
+			[
+				"bower",
+				"ngctp-ui/bower.json"
+			],
+			[
+				"yourdecontr",
+				"ngctp-ui/src/app/common/steps/yourdetails/yourdetails.controller.js"
+			],
+			[
+				"usert",
+				"ngctp-ui/src/app/common/services/user-titles.js"
+			],
+			[
+				"selecboo",
+				"ngctp-ui/bower_components/bootstrap-select/less/bootstrap-select.less"
+			],
+			[
+				"ordersub",
+				"ngctp-ui/src/test_data/order.submit.json"
+			],
+			[
+				"submitjson",
+				"ngctp-ui/src/test_data/order.submit.json"
+			],
+			[
+				"authservice",
+				"ngctp-ui/src/app/auth/auth.service.js"
+			],
+			[
+				"cance",
+				"ngctp-ui/src/app/common/views/cancel-popup.html"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
+				"aht",
+				"html/about.html"
+			],
+			[
+				"order",
+				"app/common/models/order.js"
+			],
+			[
+				"authlogi",
+				"test_data/auth.login.json"
+			],
+			[
+				"userlojos",
+				"node_modules/selenium-webdriver/lib/webdriver/locators.js"
+			],
+			[
+				"accoumod",
+				"app/b2c/myaccount/myaccount.module.js"
+			],
+			[
+				"mymode",
+				"node_modules/grunt-replace/node_modules/applause/node_modules/js-yaml/test/unsupported/empty-python-module.loader-error"
+			],
+			[
+				"authser",
+				"app/b2c/auth/auth.service.js"
+			],
+			[
+				"myaccou",
+				"app/b2c/myaccount/myaccount.controller.js"
+			],
+			[
+				"formtpl",
+				"app/b2c/connection/form.tpl.html"
+			],
+			[
+				"b2ctpl",
+				"app/b2c/b2c.tpl.html"
+			],
+			[
+				"app.js",
+				"app/app.js"
+			],
+			[
+				"appjs",
+				"test_data/applications.json"
+			],
+			[
+				"propertpl",
+				"app/b2c/connection/theproperty/theproperty.tpl.html"
+			],
+			[
+				"app.",
+				"app/app.js"
+			],
+			[
+				"applicationsservice",
+				"app/b2c/myaccount/applications/applications.service.js"
+			],
+			[
+				"logincontroller",
+				"app/b2c/auth/login/login.controller.js"
+			],
+			[
+				"conf",
+				"app/config.js"
+			],
+			[
+				"passwor",
+				"test_data/user.changePassword.json"
+			],
+			[
+				"userlogjs",
+				"test_data/user.login.json"
+			],
+			[
+				"changepass",
+				"test_data/user.changePassword.json"
+			],
+			[
+				"angular-input-match",
+				"bower_components/angular-input-match/dist/angular-input-match.js"
+			],
+			[
+				"thepropertpl",
+				"app/b2c/connection/theproperty/theproperty.tpl.html"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"applicatpl",
+				"app/b2c/myaccount/applications/applications.tpl.html"
+			],
+			[
+				"myaccount",
+				"app/b2c/myaccount/myaccount.controller.js"
+			],
+			[
+				"profilejson",
+				"test_data/user.changeProfile.json"
+			],
+			[
+				"config.js",
+				"app/config.js"
+			],
+			[
+				"proftpl",
+				"app/b2c/myaccount/profile/profile.tpl.html"
+			],
+			[
+				"profilecon",
+				"app/b2c/myaccount/profile/profile.controller.js"
+			],
+			[
+				"authserv",
+				"app/b2c/auth/auth.service.js"
+			],
+			[
+				"myaccountmodu",
+				"app/b2c/myaccount/myaccount.module.js"
+			],
+			[
+				"authse",
+				"app/b2c/auth/auth.service.js"
+			],
+			[
+				"appjson",
+				"test_data/applications.json"
+			],
+			[
+				"applications",
+				"test_data/applications.json"
+			],
+			[
+				"myacctpl",
+				"app/b2c/myaccount/myaccount.tpl.html"
+			],
+			[
+				"showtpl",
+				"app/b2c/myaccount/applications/show/show.tpl.html"
+			],
+			[
+				"adddirec",
+				"app/common/components/addresspicker/addresspicker.directive.js"
+			],
+			[
+				"pickercontroller",
+				"app/common/components/addresspicker/addresspicker.controller.js"
+			],
+			[
+				"addrpcon",
+				"app/common/components/addresspicker/addresspicker.constants.js"
+			],
+			[
+				"appcontrol",
+				"app/b2c/myaccount/applications/applications.controller.js"
+			],
+			[
+				"adddire",
+				"app/common/components/addresspicker/addresspicker.directive.js"
+			],
+			[
+				"appde",
+				"test_data/applications.details.json"
+			],
+			[
+				"myaccmodule",
+				"app/b2c/myaccount/myaccount.module.js"
+			],
+			[
+				"applicser",
+				"app/b2c/myaccount/applications/applications.service.js"
+			],
+			[
+				"appliconfig",
+				"app/b2c/myaccount/applications/applications.config.js"
+			],
+			[
+				"userjson",
+				"ngctp-ui/test_data/user.login.json"
+			],
+			[
+				"activitem",
+				"caster-ui/app/modules/common/components/activities.template.html"
+			],
+			[
+				"baskettpl",
+				"app/common/components/basket/basket.tpl.html"
+			],
+			[
+				"myaccless",
+				"app/b2c/myaccount/myaccount.less"
+			],
+			[
+				"appcss",
+				"app/app.css"
+			],
+			[
+				"myaccouless",
+				"app/b2c/myaccount/myaccount.less"
+			],
+			[
+				"app.le",
+				"app/app.less"
+			],
+			[
+				"app.css",
+				"app/app.css"
+			],
+			[
+				"login",
+				"test_data/user.login.json"
+			],
+			[
+				"yourdetai",
+				"app/b2c/connection/yourdetails/yourdetails.tpl.html"
+			],
+			[
+				"authmode",
+				"app/b2c/auth/auth.module.js"
+			],
+			[
+				"addcontrol",
+				"ngctp-ui/app/common/components/addresspicker/addresspicker.controller.js"
+			],
+			[
+				"myaccmod",
+				"app/b2c/myaccount/myaccount.module.js"
+			],
+			[
+				"myaccoumod",
+				"app/b2c/myaccount/myaccount.module.js"
+			],
+			[
+				"server",
+				"server.rb"
+			],
+			[
+				"loginjson",
+				"test_data/user.login.json"
+			],
+			[
+				"servuser",
+				"app/common/services/user.js"
+			],
+			[
+				"modalinstan",
+				"app/common/controllers/modal-instance.js"
+			],
+			[
+				"modalservice",
+				"bower_components/angular-modal-service/dst/angular-modal-service.js"
+			],
+			[
+				"b2cless",
+				"app/b2c/b2c.less"
+			],
+			[
+				"user",
+				"app/common/services/user.js"
+			],
+			[
+				"specjson",
+				"test_data/json_bapi_spec.json"
+			],
+			[
+				"_spec",
+				"node_modules/protractor/example/example_spec.js"
+			],
+			[
+				"app",
+				"app/app.js"
+			],
+			[
+				"commo",
+				"app/common/common.module.js"
+			],
+			[
+				"form",
+				"app/b2c/connection/form.controller.js"
+			],
+			[
+				"propercontrol",
+				"app/b2c/connection/theproperty/theproperty.controller.js"
+			],
+			[
+				"modelorder",
+				"app/common/models/order.js"
+			],
+			[
+				"guidetpl",
+				"app/b2c/connection/guideprice/guideprice.tpl.html"
+			],
+			[
+				"workcontr",
+				"app/b2c/connection/workrequired/workrequired.controller.js"
+			],
+			[
+				"detailstpl",
+				"app/b2c/connection/yourdetails/yourdetails.tpl.html"
+			],
+			[
+				"youdecontr",
+				"app/b2c/connection/yourdetails/yourdetails.controller.js"
+			],
+			[
+				"modains",
+				"app/common/controllers/modal-instance.js"
+			],
+			[
+				"connec",
+				"app/b2c/connection/connection.less"
+			],
+			[
+				"indx",
+				"index.html"
+			],
+			[
+				"connmodul",
+				"app/b2c/connection/connection.module.js"
+			],
+			[
+				"modeorder",
+				"app/common/models/order.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 741.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
