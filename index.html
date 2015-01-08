@@ -1,31 +1,51 @@
-<!doctype html>
-<html lang="en" ng-app="quizTime">
+<!DOCTYPE html>
+<html lang="en">
+
     <head>
+
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Quiz time!</title>
+
+        <!-- 3rd party and custom stylesheets -->
         <link rel="stylesheet" type="text/css" href="style/normalize.css">
         <link rel="stylesheet" type="text/css" href="style/foundation.min.css">
         <link rel="stylesheet" type="text/css" href="style/main.css">
+        <!-- 3rd party and custom stylesheets end -->
+
+        <!-- link 3rd party libraries -->
         <script type="text/javascript" src="js/angular.js"></script>
+        <!-- link 3rd party libraries end -->
+
+        <title>Quiz time!</title>
+
     </head>
-    <body>
-        <div id="quiz" ng-controller="QuizController">
-            <div class="row">
-                <button class="button tiny expand" ng-click="init()">Reset Quiz</button>
-            </div>
+
+    <body ng-app="quizTime">
+
+        <div ng-controller="QuizController">
             <div ng-if="question">
                 <div class="row">
-                    <label class="label">{{question}}</label>
+                    <div class="columns large-6">
+                        <label class="label">{{question}}</label>
+                    </div>
                 </div>
             </div>
             <div class="row">
-                <input id="answerBox" type="text" placeholder="Put in your answer..." ng-enter="answerQuestion()" ng-model="answer" focus-me="answer == ''">
+                <div class="columns large-12">
+                    <input id="answerBox" type="text" placeholder="Put in your answer..." ng-enter="answerQuestion()" ng-model="answer" focus-me="answer == ''">
+                </div>
             </div>
             <div class="row">
-                <button class="button tiny expand" ng-disabled="answer == ''" ng-click="answerQuestion()">Check answer</button>
+                <div class="columns large-6">
+                    <button class="button tiny expand" ng-disabled="answer == ''" ng-click="answerQuestion()">Check answer</button>
+                </div>
+                <div class="columns large-6">
+                    <button class="button tiny expand secondary" ng-click="init()">Reset Quiz</button>
+                </div>
             </div>
         </div>
 
+        <!-- link custom js file -->
         <script type="text/javascript" src="js/quiz.js"></script>
+        <!-- link custom js file end -->
     </body>
 </html>
