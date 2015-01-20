@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app='quizTime'>
 
     <head>
 
@@ -11,39 +11,35 @@
         <link rel="stylesheet" type="text/css" href="style/main.css">
         <!-- 3rd party and custom stylesheets end -->
 
-        <!-- link 3rd party libraries -->
-        <script type="text/javascript" src="js/angular.js"></script>
-        <!-- link 3rd party libraries end -->
-
         <title>Quiz time!</title>
 
     </head>
 
-    <body ng-app="quizTime">
+    <body>
 
-        <div ng-controller="QuizController">
-            <div ng-if="question">
+        <div ng-controller="QuizController as ctrl">
+            <div ng-if='ctrl.question'>
                 <div class="row">
                     <div class="columns large-6">
-                        <label class="label">{{question}}</label>
+                        <label class="label" ng-bind='ctrl.question'></label>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="columns large-12">
-                    <input id="answerBox" type="text" placeholder="Put in your answer..." ng-enter="answerQuestion()" ng-model="answer" focus-me="answer == ''">
+                    <input type="text" placeholder="Put in your answer..." ng-enter='ctrl.answerQuestion()' ng-model='ctrl.answer' focus-me="ctrl.answer == ''">
                 </div>
             </div>
             <div class="row">
                 <div class="columns large-6">
-                    <button class="button tiny expand" ng-disabled="answer == ''" ng-click="answerQuestion()">Check answer</button>
-                </div>
-                <div class="columns large-6">
-                    <button class="button tiny expand secondary" ng-click="init()">Reset Quiz</button>
+                    <button class="button tiny expand" ng-disabled="ctrl.answer == ''" ng-click="ctrl.answerQuestion()">Check answer</button>
                 </div>
             </div>
         </div>
 
+        <!-- link 3rd party libraries -->
+        <script type="text/javascript" src="js/angular.js"></script>
+        <!-- link 3rd party libraries end -->
         <!-- link custom js file -->
         <script type="text/javascript" src="js/quiz.js"></script>
         <!-- link custom js file end -->

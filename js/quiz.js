@@ -1,6 +1,10 @@
 angular.module('quizTime', [])
-    .controller('QuizController', ['$scope',
-        function($scope) {
+    .controller('QuizController', [
+
+        function() {
+
+            var self = this;
+
             var questions = [{
                 'question': 'Name a programming language that\'s also a gem',
                 'answer': 'Ruby'
@@ -19,41 +23,45 @@ angular.module('quizTime', [])
             }];
 
             var updateQuestion = function() {
-                if (questions[$scope.questionCount]) {
-                    $scope.question = questions[$scope.questionCount].question;
+                if (questions[self.questionCount]) {
+                    self.question = questions[self.questionCount].question;
                 }
             };
 
-            $scope.init = function() {
-                $scope.questionCount = 0;
-                $scope.correct = 0;
-                $scope.answer = '';
+            self.init = function() {
+                self.questionCount = 0;
+                self.correct = 0;
+                self.answer = '';
 
                 updateQuestion();
             };
 
-            $scope.init();
+            self.init();
 
-            $scope.answerQuestion = function() {
-                if ($scope.answer == '') {
+            self.answerQuestion = function() {
+
+                if (self.answer == '') {
                     return;
                 }
-                if ($scope.answer.toUpperCase() === questions[$scope.questionCount].answer.toUpperCase()) {
+
+                if (self.answer.toUpperCase() === questions[self.questionCount].answer.toUpperCase()) {
                     alert('That\'s right!');
-                    $scope.correct += 1;
-                    $scope.answer = '';
+                    self.correct += 1;
+                    self.answer = '';
                 } else {
                     alert('That\'s wrong!');
                 }
 
-                $scope.answer = '';
+                self.answer = '';
+                self.questionCount += 1;
 
-                if ($scope.questionCount < questions.length) {
-                    $scope.questionCount += 1;
+                if (self.questionCount < questions.length) {
                     updateQuestion();
                 } else {
-                    alert('Quiz completed with ' + correct + ' correct answers!');
+                    alert('Quiz completed with ' + self.correct + ' correct answers!');
+                    self.init();
                 }
+
             };
         }
     ])
@@ -73,11 +81,10 @@ angular.module('quizTime', [])
 
 .directive('focusMe', function($timeout, $parse) {
     return {
-        //scope: true,   // optionally create a child scope
+        // scope: true,   // optionally create a child scope
         link: function(scope, element, attrs) {
             var model = $parse(attrs.focusMe);
             scope.$watch(model, function(value) {
-                console.log('value=', value);
                 if (value === true) {
                     $timeout(function() {
                         element[0].focus();
@@ -87,7 +94,6 @@ angular.module('quizTime', [])
             // to address @blesh's comment, set attribute value to 'false'
             // on blur event:
             element.bind('blur', function() {
-                console.log('blur');
                 scope.$apply(model.assign(scope, false));
             });
         }
