@@ -18,23 +18,25 @@
     <body>
 
         <div ng-controller="QuizController as ctrl">
-            <div ng-if='ctrl.question'>
-                <div class="row">
-                    <div class="columns large-6">
-                        <label class="label" ng-bind='ctrl.question'></label>
+            <form ng-submit='ctrl.answerQuestion()'>
+                <div ng-if='ctrl.question'>
+                    <div class="row">
+                        <div class="columns large-6">
+                            <label class="label" ng-bind='ctrl.question'></label>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="columns large-12">
-                    <input type="text" placeholder="Put in your answer..." ng-enter='ctrl.answerQuestion()' ng-model='ctrl.answer' focus-me="ctrl.answer == ''">
+                <div class="row">
+                    <div class="columns large-12">
+                        <input type="text" placeholder="Put in your answer..." ng-model='ctrl.answer' focus-me="ctrl.answer === ''">
+                    </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="columns large-6">
-                    <button class="button tiny expand" ng-disabled="ctrl.answer == ''" ng-click="ctrl.answerQuestion()">Check answer</button>
+                <div class="row">
+                    <div class="columns large-6">
+                        <input class="button tiny expand" type="submit" value="Check Answer" ng-disabled="ctrl.answer == ''">
+                    </div>
                 </div>
-            </div>
+            </form>
         </div>
 
         <!-- link 3rd party libraries -->
