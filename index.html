@@ -1,49 +1,50 @@
 <!DOCTYPE html>
 <html lang="en" ng-app='quizTime'>
 
-    <head>
+<head>
 
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-        <!-- 3rd party and custom stylesheets -->
-        <link rel="stylesheet" type="text/css" href="style/normalize.css">
-        <link rel="stylesheet" type="text/css" href="style/foundation.min.css">
-        <link rel="stylesheet" type="text/css" href="style/main.css">
-        <!-- 3rd party and custom stylesheets end -->
+    <!-- 3rd party and custom stylesheets -->
+    <link rel="stylesheet" type="text/css" href="style/normalize.css">
+    <link rel="stylesheet" type="text/css" href="style/foundation.min.css">
+    <link rel="stylesheet" type="text/css" href="style/main.css">
+    <!-- 3rd party and custom stylesheets end -->
 
-        <title>Quiz time!</title>
+    <title>Quiz time!</title>
 
-    </head>
+</head>
 
-    <body>
+<body>
 
-        <div ng-controller="QuizController as ctrl">
-            <form ng-submit='ctrl.answerQuestion()'>
-                <div ng-if='ctrl.question'>
-                    <div class="row">
-                        <div class="columns large-6">
-                            <label class="label" ng-bind='ctrl.question'></label>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="columns large-12">
-                        <input type="text" placeholder="Put in your answer..." ng-model='ctrl.answer' focus-me="ctrl.answer === ''">
-                    </div>
-                </div>
+    <div data-ng-controller='QuizController as ctrl'>
+        <form data-ng-submit='ctrl.answerQuestion()'>
+            <div data-ng-if='ctrl.question'>
                 <div class="row">
                     <div class="columns large-6">
-                        <input class="button tiny expand" type="submit" value="Check Answer" ng-disabled="ctrl.answer == ''">
+                        <label class="label" data-ng-bind='ctrl.question'></label>
                     </div>
                 </div>
-            </form>
-        </div>
+            </div>
+            <div class="row">
+                <div class="columns large-12">
+                    <input type="text" placeholder="Put in your answer..." data-ng-model='ctrl.answer' data-focus-me="ctrl.answer === ''">
+                </div>
+            </div>
+            <div class="row">
+                <div class="columns large-6">
+                    <input class="button tiny expand" type="submit" value="Check Answer" data-ng-disabled="ctrl.answer == ''">
+                </div>
+            </div>
+        </form>
+    </div>
 
-        <!-- link 3rd party libraries -->
-        <script type="text/javascript" src="js/angular.js"></script>
-        <!-- link 3rd party libraries end -->
-        <!-- link custom js file -->
-        <script type="text/javascript" src="js/quiz.js"></script>
-        <!-- link custom js file end -->
-    </body>
+    <!-- link 3rd party libraries -->
+    <script type="text/javascript" src="js/angular.js"></script>
+    <!-- link 3rd party libraries end -->
+    <!-- link custom js file -->
+    <script type="text/javascript" src="js/quiz.js"></script>
+    <!-- link custom js file end -->
+</body>
+
 </html>
